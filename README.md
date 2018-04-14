@@ -1,5 +1,6 @@
 # boxposting.py
 
+```
 kraust@DESKTOP-KQ6LL53:~/boxposting-py$ python boxposting.py BOXPOSTING
     B O X P O S T I N G
     O                 N N
@@ -20,3 +21,4 @@ kraust@DESKTOP-KQ6LL53:~/boxposting-py$ python boxposting.py BOXPOSTING
                   X                 I   I
                     O                 N N
                       B O X P O S T I N G
+```
